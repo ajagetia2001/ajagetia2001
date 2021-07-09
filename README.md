@@ -7,6 +7,13 @@
 
 ### A student of Information Technology at IIIT Lucknow. I have developed a great interest in competitive programming, learning data structures, and algorithms. I also have a keen interest in web development.
 
+- 🔭 I’m currently working on ....***A Quiz App***
+- 🌱 I’m currently learning .... **React**
+- 👯 I’m looking to collaborate on .... **open source projects**
+- 🤔 I’m looking for help with .... **Node** *&* **React**
+- 💬 Ask me about .... ***C++***
+- 📫 How to reach me: <a href = "mailto: jagetiaaaryan06@gmail.com">Email</a>
+
 <br>
 
 <div align="center">
