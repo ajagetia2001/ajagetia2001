@@ -31,11 +31,11 @@
 <!-- ![GitHub Contributors Image](https://contrib.rocks/image?repo=Your_GitHub_Username/Your_GitHub_Repository_Name) -->
 
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajagetia2001&theme=dark&show_icons=true) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajagetia2001&theme=dark&show_icons=true)
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajagetia2001&show_icons=true&locale=en" alt="aaryan jagetia" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajagetia2001&show_icons=true&locale=en" alt="aaryan jagetia" /></p> -->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajagetia2001&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
