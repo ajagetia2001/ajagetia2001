@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning .... **React**
 - 👯 I’m looking to collaborate on .... **open source projects**
 - 🤔 I’m looking for help with .... **Node** *&* **React**
-- 💬 Ask me about .... ***C++*,*js***
+- 💬 Ask me about .... ***C++*, * js***
 <!-- - 📫 How to reach me: <a href = "mailto: jagetiaaaryan06@gmail.com">Email</a> -->
 
 <br>
