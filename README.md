@@ -11,8 +11,8 @@
 - 🌱 I’m currently learning .... **React**
 - 👯 I’m looking to collaborate on .... **open source projects**
 - 🤔 I’m looking for help with .... **Node** *&* **React**
-- 💬 Ask me about .... ***C++***
-- 📫 How to reach me: <a href = "mailto: jagetiaaaryan06@gmail.com">Email</a>
+- 💬 Ask me about .... ***C++,*js***
+<!-- - 📫 How to reach me: <a href = "mailto: jagetiaaaryan06@gmail.com">Email</a> -->
 
 <br>
 
@@ -46,6 +46,10 @@
 
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ajagetia2001&theme=dark) -->
 
+### 📫 Get in touch? 
 
+<!--   ⦿ Visit my [Website](https://shubh2710.github.io/) 🌐 <br> -->
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/aaryan-jagetia/) 👨🏻‍💻 <br>
+  ⦿ Shoot Me an [Email](mailto:jagetiaaaryan06@gmail.com) 💌 <br>
 
 
