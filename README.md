@@ -9,13 +9,13 @@
 
 <br>
 
-**Languages and Tools:**  
+<div align="center">
+  <h1>Tech Skills :computer: </h1>
 
+![B](https://icongr.am/devicon/c-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/cplusplus-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/html5-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/css3-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/bootstrap-plain.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/javascript-original.svg?size=55&color=563d7c)  ![B](https://icongr.am/devicon/git-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/react-original.svg?size=55&color=563d7c) ![B](https://icongr.am/octicons/mark-github.svg?size=55&color=949494) ![B](https://icongr.am/devicon/nodejs-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/mongodb-original.svg?size=55&color=563d7c)
 
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+  
+</div>
 
 
 <!-- ![GitHub Contributors Image](https://contrib.rocks/image?repo=Your_GitHub_Username/Your_GitHub_Repository_Name) -->
