@@ -7,4 +7,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajagetia2001&theme=dark&show_icons=true)
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ajagetia2001&theme=black)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ajagetia2001&theme=dark)
