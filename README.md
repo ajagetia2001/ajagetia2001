@@ -7,7 +7,7 @@
 
 ### Hi there,I am Aaryan Jagetia, a student of Information Technology at IIIT Lucknow. I have developed a great interest in competitive programming, learning data structures, and algorithms. I also have a keen interest in web development.
 
-
+<br>
 
 
 
