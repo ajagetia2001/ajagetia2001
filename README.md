@@ -3,7 +3,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ajagetia2001)
 
 
-# Hello there! 👋🏻 I am Aaryan Jagetia!  
+# Hello there! 👋🏻 I am Aaryan Jagetia!  <img src="https://github.com/ajagetia2001/ajagetia2001/blob/main/Developer.gif" width="65px">
 
 ### A student of Information Technology at IIIT Lucknow. I have developed a great interest in competitive programming, learning data structures, and algorithms. I also have a keen interest in web development.
 
